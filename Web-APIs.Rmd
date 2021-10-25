@@ -1,0 +1,92 @@
+---
+title: "DATA 607 - Assignment 9 - Web APIs"
+author: "Preston Peck"
+date: "10/24/2021"
+output: html_document
+---
+
+# Brief
+Our task is to choose one of the New York Times APIs (movie reviews in this case), construct an interface in R to read in the JSON data (httr), and transform it into an R DataFrame (jsonlite).
+
+# Steps
+
+```{r message = FALSE}
+library(httr)
+library(jsonlite)
+library(tidyverse)
+```
+
+```{r}
+apiKey <- "KEY"
+```
+
+After requesting an API key, in order to keep it anonymous, we can use keyring to store and retrieve it locally by a key we define
+
+```{r}
+library(keyring)
+
+nytId <- "NYT_ID"
+# key_set(nytId)
+```
+
+We create the request piecewise by forming the optional (offset, order) and mandatory (apiKey) queries before attaching it to the base url and making a GET request with httr. Jsonlite handles formatting it into something workable, its pretty argument handles formatting it into something extremely readable. In case of API limits, we cache the result in a JSON backup
+
+```{r}
+loadMovieReviews <- function(fromCache = FALSE) {
+  file <- "data/movie_reviews.json"
+  
+  if (!fromCache) {
+    offsetKey = "offset"
+    offsetValue = 0
+    offsetQuery = paste(offsetKey, offsetValue, sep = "=")
+    
+    orderKey = "order"
+    orderValue = "by-opening-date"
+    orderQuery = paste(orderKey, orderValue, sep = "=")
+    
+    apiKeyKey = "api-key"
+    apiKeyValue = key_get(nytId)
+    apiKeyQuery = paste(apiKeyKey, apiKeyValue, sep = "=")
+    
+    queries = paste(offsetQuery, orderQuery, apiKeyQuery, sep = "&")
+    
+    movieReviewUrl <- "https://api.nytimes.com/svc/movies/v2/reviews/all.json"
+    movieReviewUrl <- paste(movieReviewUrl, queries, sep = "?")
+     
+    
+    
+    response <- movieReviewUrl %>%
+      GET
+    response
+    
+    responseText <- response %>%
+      content("text")
+    
+    responseJson <- responseText %>%
+      fromJSON
+    
+    responseJson %>%
+      write_json(file, pretty = TRUE)
+    
+    return(responseJson)
+  } else {
+    responseJson <- read_json(file, simplifyVector = FALSE) # to combat API limit
+    return(responseJson)
+  }
+}
+```
+
+Something to note is the simplifyVector argument which can drastically change the output. It's the difference between each field being a list of lists, or a list (i.e. when TRUE, response\$status == "OK"; when FALSE, response$status[[1]] == "OK)
+
+```{r}
+results <- loadMovieReviews()$results
+results
+
+results %>%
+  is.data.frame
+```
+
+We see that the data is already in the proper data frame format where it makes the most sense when possible
+
+# Conclusion
+With the proper configurations, we can make a rich HTTP client and response parser in just a handful of lines. Jsonlite is, as the name promises, a very lightweight library

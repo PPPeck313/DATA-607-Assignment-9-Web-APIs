@@ -1,0 +1,448 @@
+{
+  "status": ["OK"],
+  "copyright": ["Copyright (c) 2021 The New York Times Company. All Rights Reserved."],
+  "has_more": [true],
+  "num_results": [20],
+  "results": [
+    {
+      "display_title": "The Electrical Life of Louis Wain",
+      "mpaa_rating": "PG-13",
+      "critics_pick": 1,
+      "byline": "Manohla Dargis",
+      "headline": "‘The Electrical Life of Louis Wain’ Review: The Cat’s Meow",
+      "summary_short": "Benedict Cumberbatch plays a British artist who found love, both human and feline, and became famous as the man who drew cats.",
+      "publication_date": "2021-10-21",
+      "opening_date": "2021-11-05",
+      "date_updated": "2021-10-21 18:23:03",
+      "link": {
+        "type": "article",
+        "url": "https://www.nytimes.com/2021/10/21/movies/the-electrical-life-of-louis-wain-review.html",
+        "suggested_link_text": "Read the New York Times Review of The Electrical Life of Louis Wain"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2021/10/22/arts/22electrical-life1/22electrical-life1-mediumThreeByTwo440.jpg",
+        "height": 140,
+        "width": 210
+      }
+    },
+    {
+      "display_title": "Son of Monarchs",
+      "mpaa_rating": "R",
+      "critics_pick": 1,
+      "byline": "Isabelia Herrera",
+      "headline": "‘Son of Monarchs’ Review: Of Butterflies and Belonging",
+      "summary_short": "This lush Mexican drama tells a story about climate change and cultural identity using the allegory of monarch butterflies’ migration.",
+      "publication_date": "2021-10-13",
+      "opening_date": "2021-11-02",
+      "date_updated": "2021-10-13 17:53:03",
+      "link": {
+        "type": "article",
+        "url": "https://www.nytimes.com/2021/10/13/movies/son-of-monarchs-review.html",
+        "suggested_link_text": "Read the New York Times Review of Son of Monarchs"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2021/10/14/arts/14son-of-monarchs1/14son-of-monarchs1-mediumThreeByTwo440.jpg",
+        "height": 140,
+        "width": 210
+      }
+    },
+    {
+      "display_title": "Dune",
+      "mpaa_rating": "PG-13",
+      "critics_pick": 1,
+      "byline": "Manohla Dargis",
+      "headline": "‘Dune’ Review: A Hero in the Making, on Shifting Sands",
+      "summary_short": "Denis Villeneuve’s adaptation is an equally sweeping and intimate take on Frank Herbert’s future-shock epic.",
+      "publication_date": "2021-10-20",
+      "opening_date": "2021-10-22",
+      "date_updated": "2021-10-20 22:47:07",
+      "link": {
+        "type": "article",
+        "url": "https://www.nytimes.com/2021/10/20/movies/dune-review.html",
+        "suggested_link_text": "Read the New York Times Review of Dune"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2021/10/20/arts/20dune-review1/20dune-review1-mediumThreeByTwo440.jpg",
+        "height": 140,
+        "width": 210
+      }
+    },
+    {
+      "display_title": "Becoming Cousteau",
+      "mpaa_rating": "PG-13",
+      "critics_pick": 0,
+      "byline": "A.O. Scott",
+      "headline": "‘Becoming Cousteau’ Review: The Old Man and the Sea",
+      "summary_short": "Liz Garbus’s new documentary is about the life of the French explorer Jacques-Yves Cousteau and the fate of the oceans he loved.",
+      "publication_date": "2021-10-21",
+      "opening_date": "2021-10-22",
+      "date_updated": "2021-10-21 17:48:03",
+      "link": {
+        "type": "article",
+        "url": "https://www.nytimes.com/2021/10/21/movies/becoming-cousteau-review.html",
+        "suggested_link_text": "Read the New York Times Review of Becoming Cousteau"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2021/10/21/arts/21becoming-cousteau/21becoming-cousteau-mediumThreeByTwo440.jpg",
+        "height": 140,
+        "width": 210
+      }
+    },
+    {
+      "display_title": "Ron's Gone Wrong",
+      "mpaa_rating": "PG",
+      "critics_pick": 0,
+      "byline": "Ben Kenigsberg",
+      "headline": "‘Ron’s Gone Wrong’ Review: Still Under Warranty",
+      "summary_short": "This animated feature, with Zach Galifianakis voicing a malfunctioning robot, sends up technology addiction with a decent amount of wit.",
+      "publication_date": "2021-10-21",
+      "opening_date": "2021-10-22",
+      "date_updated": "2021-10-21 16:43:03",
+      "link": {
+        "type": "article",
+        "url": "https://www.nytimes.com/2021/10/21/movies/rons-gone-wrong-review.html",
+        "suggested_link_text": "Read the New York Times Review of Ron's Gone Wrong"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2021/10/21/arts/rons1/rons1-mediumThreeByTwo440.jpg",
+        "height": 140,
+        "width": 210
+      }
+    },
+    {
+      "display_title": "No Future",
+      "mpaa_rating": "",
+      "critics_pick": 0,
+      "byline": "Calum Marsh",
+      "headline": "‘No Future’ Review: On a Downward Spiral",
+      "summary_short": "A recovering addict and a grieving mother follow a self-destructive path in this bleak, understated drama.",
+      "publication_date": "2021-10-21",
+      "opening_date": "2021-10-22",
+      "date_updated": "2021-10-21 15:14:03",
+      "link": {
+        "type": "article",
+        "url": "https://www.nytimes.com/2021/10/21/movies/no-future-review.html",
+        "suggested_link_text": "Read the New York Times Review of No Future"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2021/10/21/arts/nofuture1/nofuture1-mediumThreeByTwo440.jpg",
+        "height": 140,
+        "width": 210
+      }
+    },
+    {
+      "display_title": "Warning",
+      "mpaa_rating": "R",
+      "critics_pick": 0,
+      "byline": "Amy Nicholson",
+      "headline": "‘Warning’ Review: Untethered From Humanity",
+      "summary_short": "Agata Alexander directs this contemplative collection of science fiction shorts set in the near future.",
+      "publication_date": "2021-10-21",
+      "opening_date": "2021-10-22",
+      "date_updated": "2021-10-21 11:01:04",
+      "link": {
+        "type": "article",
+        "url": "https://www.nytimes.com/2021/10/21/movies/warning-review.html",
+        "suggested_link_text": "Read the New York Times Review of Warning"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2021/10/22/arts/warning1/warning1-mediumThreeByTwo440.jpg",
+        "height": 140,
+        "width": 210
+      }
+    },
+    {
+      "display_title": "The French Dispatch",
+      "mpaa_rating": "R",
+      "critics_pick": 0,
+      "byline": "A.O. Scott",
+      "headline": "‘The French Dispatch’ Review: Remember Magazines?",
+      "summary_short": "Wes Anderson pays antic tribute to the old New Yorker and its far-flung correspondents.",
+      "publication_date": "2021-10-20",
+      "opening_date": "2021-10-22",
+      "date_updated": "2021-10-20 20:35:03",
+      "link": {
+        "type": "article",
+        "url": "https://www.nytimes.com/2021/10/20/movies/the-french-dispatch-review.html",
+        "suggested_link_text": "Read the New York Times Review of The French Dispatch"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2021/10/22/arts/21french-dispatch-review/21french-dispatch-review-mediumThreeByTwo440.jpg",
+        "height": 140,
+        "width": 210
+      }
+    },
+    {
+      "display_title": "Introducing, Selma Blair",
+      "mpaa_rating": "",
+      "critics_pick": 0,
+      "byline": "Teo Bugbee",
+      "headline": "‘Introducing, Selma Blair’ Review: An Actress in Her Second Act",
+      "summary_short": "A window into the actress’s battle with multiple sclerosis.",
+      "publication_date": "2021-10-14",
+      "opening_date": "2021-10-21",
+      "date_updated": "2021-10-14 17:36:03",
+      "link": {
+        "type": "article",
+        "url": "https://www.nytimes.com/2021/10/14/movies/introducing-selma-blair-review-an-actress-in-her-second-act.html",
+        "suggested_link_text": "Read the New York Times Review of Introducing, Selma Blair"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2021/10/14/arts/14introducing-selma/14introducing-selma-mediumThreeByTwo440.jpg",
+        "height": 140,
+        "width": 210
+      }
+    },
+    {
+      "display_title": "Found",
+      "mpaa_rating": "PG",
+      "critics_pick": 0,
+      "byline": "Lisa Kennedy",
+      "headline": "‘Found’ Review: Three Adoptees Seek Their China Roots",
+      "summary_short": "This documentary, taking emotional cues from the teenagers at its center, is smart, illuminating and tender.",
+      "publication_date": "2021-10-20",
+      "opening_date": "2021-10-20",
+      "date_updated": "2021-10-20 15:11:03",
+      "link": {
+        "type": "article",
+        "url": "https://www.nytimes.com/2021/10/20/movies/found-review.html",
+        "suggested_link_text": "Read the New York Times Review of Found"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2021/10/20/arts/20found/20found-mediumThreeByTwo440.jpg",
+        "height": 140,
+        "width": 210
+      }
+    },
+    {
+      "display_title": "Night Teeth",
+      "mpaa_rating": "",
+      "critics_pick": 0,
+      "byline": "Jeannette Catsoulis",
+      "headline": "‘Night Teeth’ Review: You’re So Vein",
+      "summary_short": "In this spiritless Netflix movie, an unwitting chauffeur in Los Angeles is drawn into a murderous vampire plot.",
+      "publication_date": "2021-10-20",
+      "opening_date": "2021-10-20",
+      "date_updated": "2021-10-20 11:01:03",
+      "link": {
+        "type": "article",
+        "url": "https://www.nytimes.com/2021/10/20/movies/night-teeth-review.html",
+        "suggested_link_text": "Read the New York Times Review of Night Teeth"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2021/10/19/arts/nightteeth1/merlin_196195554_cc0782d1-470d-454a-b056-f5eb7bd367f9-mediumThreeByTwo440.jpg",
+        "height": 140,
+        "width": 210
+      }
+    },
+    {
+      "display_title": "Women Is Losers",
+      "mpaa_rating": "",
+      "critics_pick": 0,
+      "byline": "Concepción de León",
+      "headline": "‘Women Is Losers’ Review: A Woman Beaten but Not Defeated",
+      "summary_short": "The film follows Celina, a young Latina woman navigating sexism and systemic oppression in the 1960s.",
+      "publication_date": "2021-10-19",
+      "opening_date": "2021-10-18",
+      "date_updated": "2021-10-19 16:19:03",
+      "link": {
+        "type": "article",
+        "url": "https://www.nytimes.com/2021/10/19/movies/women-is-losers-review.html",
+        "suggested_link_text": "Read the New York Times Review of Women Is Losers"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2021/10/18/arts/women1/women1-mediumThreeByTwo440.jpg",
+        "height": 140,
+        "width": 210
+      }
+    },
+    {
+      "display_title": "Wheel of Fortune and Fantasy",
+      "mpaa_rating": "",
+      "critics_pick": 1,
+      "byline": "Manohla Dargis",
+      "headline": "‘Wheel of Fortune and Fantasy’ Review: What We Talk About",
+      "summary_short": "In three stories, men and women circle one another as they casually and cruelly share intimacies, express desires and voice doubts.",
+      "publication_date": "2021-10-14",
+      "opening_date": "2021-10-15",
+      "date_updated": "2021-10-14 17:11:03",
+      "link": {
+        "type": "article",
+        "url": "https://www.nytimes.com/2021/10/14/movies/wheel-of-fortune-and-fantasy.html",
+        "suggested_link_text": "Read the New York Times Review of Wheel of Fortune and Fantasy"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2021/10/15/arts/00wheel-of-fortune/00wheel-of-fortune-mediumThreeByTwo440.jpg",
+        "height": 140,
+        "width": 210
+      }
+    },
+    {
+      "display_title": "The Velvet Underground",
+      "mpaa_rating": "R",
+      "critics_pick": 1,
+      "byline": "A.O. Scott",
+      "headline": "‘The Velvet Underground’ Review: And Me, I’m in a Rock ’n’ Roll Band",
+      "summary_short": "Todd Haynes’s documentary paints a jagged, revelatory portrait of the New York avant-garde scene of the 1960s.",
+      "publication_date": "2021-10-14",
+      "opening_date": "2021-10-15",
+      "date_updated": "2021-10-14 16:24:03",
+      "link": {
+        "type": "article",
+        "url": "https://www.nytimes.com/2021/10/14/movies/the-velvet-underground-review.html",
+        "suggested_link_text": "Read the New York Times Review of The Velvet Underground"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2021/10/15/arts/14velvet1/14velvet1-mediumThreeByTwo440.jpg",
+        "height": 140,
+        "width": 210
+      }
+    },
+    {
+      "display_title": "Bergman Island",
+      "mpaa_rating": "R",
+      "critics_pick": 1,
+      "byline": "A.O. Scott",
+      "headline": "‘Bergman Island’ Review: Love Among the Cinephiles",
+      "summary_short": "In Mia Hansen-Love’s new film, Vicky Krieps and Tim Roth play filmmakers on the rocks in the Baltic Sea.",
+      "publication_date": "2021-10-14",
+      "opening_date": "2021-10-15",
+      "date_updated": "2021-10-14 16:01:05",
+      "link": {
+        "type": "article",
+        "url": "https://www.nytimes.com/2021/10/14/movies/bergman-island-review.html",
+        "suggested_link_text": "Read the New York Times Review of Bergman Island"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2021/10/15/arts/14bergman-island1/14bergman-island1-mediumThreeByTwo440.jpg",
+        "height": 140,
+        "width": 210
+      }
+    },
+    {
+      "display_title": "The Last Duel",
+      "mpaa_rating": "R",
+      "critics_pick": 1,
+      "byline": "Manohla Dargis",
+      "headline": "‘The Last Duel’ Review: A Medieval Epic in the Age of #MeToo",
+      "summary_short": "Ridley Scott and his all-star cast rip the moldy fig leaf off chivalric romance in a he-said, he-said, she-said spectacle.",
+      "publication_date": "2021-10-13",
+      "opening_date": "2021-10-15",
+      "date_updated": "2021-10-13 22:08:03",
+      "link": {
+        "type": "article",
+        "url": "https://www.nytimes.com/2021/10/13/movies/the-last-duel-review.html",
+        "suggested_link_text": "Read the New York Times Review of The Last Duel"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2021/10/15/arts/the-last-duel/merlin_195863007_7c11c26e-c2db-4794-9f84-c07d46decc2e-mediumThreeByTwo440.jpg",
+        "height": 140,
+        "width": 210
+      }
+    },
+    {
+      "display_title": "Halloween Kills",
+      "mpaa_rating": "R",
+      "critics_pick": 0,
+      "byline": "Jeannette Catsoulis",
+      "headline": "‘Halloween Kills’ Review: There Will Be (Copious Amounts of) Blood",
+      "summary_short": "The newest installment of the “Halloween” franchise, starring Jamie Lee Curtis, is a murderous mess that substitutes corpses for characters.",
+      "publication_date": "2021-10-14",
+      "opening_date": "2021-10-15",
+      "date_updated": "2021-10-14 17:14:03",
+      "link": {
+        "type": "article",
+        "url": "https://www.nytimes.com/2021/10/14/movies/halloween-kills-review.html",
+        "suggested_link_text": "Read the New York Times Review of Halloween Kills"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2021/10/14/arts/14halloween-kills-art/14halloween-kills-art-mediumThreeByTwo440.jpg",
+        "height": 140,
+        "width": 210
+      }
+    },
+    {
+      "display_title": "Hard Luck Love Song",
+      "mpaa_rating": "R",
+      "critics_pick": 0,
+      "byline": "Glenn Kenny",
+      "headline": "‘Hard Luck Love Song’ Review: A Glossy Take on a Gritty Tune",
+      "summary_short": "Drawn from the plotline of a Todd Snider song, the film follows a pool shark and an escort, taking twists that are both violent and silly.",
+      "publication_date": "2021-10-14",
+      "opening_date": "2021-10-15",
+      "date_updated": "2021-10-14 12:28:03",
+      "link": {
+        "type": "article",
+        "url": "https://www.nytimes.com/2021/10/14/movies/hard-luck-love-song-review.html",
+        "suggested_link_text": "Read the New York Times Review of Hard Luck Love Song"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2021/10/14/arts/14hard-luck-review/merlin_195864411_fa0620b9-3070-4301-be89-7ebf7a4b1d26-mediumThreeByTwo440.jpg",
+        "height": 140,
+        "width": 210
+      }
+    },
+    {
+      "display_title": "All About My Sisters",
+      "mpaa_rating": "",
+      "critics_pick": 0,
+      "byline": "Devika Girish",
+      "headline": "‘All About My Sisters’ Review: Family Matters",
+      "summary_short": "Wang Qiong’s debut feature traces the tragic effects of China’s one-child policy on her family.",
+      "publication_date": "2021-10-14",
+      "opening_date": "2021-10-15",
+      "date_updated": "2021-10-14 13:43:30",
+      "link": {
+        "type": "article",
+        "url": "https://www.nytimes.com/2021/10/14/movies/all-about-my-sisters-review.html",
+        "suggested_link_text": "Read the New York Times Review of All About My Sisters"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2021/10/14/arts/14allabout-art/14allabout-art-mediumThreeByTwo440.jpg",
+        "height": 140,
+        "width": 210
+      }
+    },
+    {
+      "display_title": "Needle in a Timestack",
+      "mpaa_rating": "R",
+      "critics_pick": 0,
+      "byline": "Elisabeth Vincentelli",
+      "headline": "‘Needle in a Timestack’ Review: Put a Pin in It",
+      "summary_short": "The director John Ridley, who wrote “12 Years a Slave,” tries to combine time travel and romance, and comes up short twice.",
+      "publication_date": "2021-10-14",
+      "opening_date": "2021-10-15",
+      "date_updated": "2021-10-14 11:02:03",
+      "link": {
+        "type": "article",
+        "url": "https://www.nytimes.com/2021/10/14/movies/needle-in-a-timestack-review.html",
+        "suggested_link_text": "Read the New York Times Review of Needle in a Timestack"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2021/10/14/arts/14NEEDLE-IN-A-TIMESTACK-REVIEW/merlin_195899766_be07cdb0-7ef9-4c41-aa84-97046b7a42ca-mediumThreeByTwo440.jpg",
+        "height": 140,
+        "width": 210
+      }
+    }
+  ]
+}
